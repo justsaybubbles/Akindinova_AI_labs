@@ -1,0 +1,83 @@
+{
+    "grammar_constructions": {
+      "conditional_sentences": {
+        "name": "Условные предложения",
+        "description": "Условные предложения используются для описания ситуаций, зависящих от определённых условий.",
+        "types": {
+          "zero_conditional": {
+            "name": "Нулевой тип условных предложений",
+            "usage": "Используется для описания общих истин и фактов.",
+            "formula": "If + Present Simple, Present Simple",
+            "examples": [
+              "If you heat water to 100 degrees, it boils.",
+              "If it rains, the ground gets wet."
+            ]
+          },
+          "first_conditional": {
+            "name": "Первый тип условных предложений",
+            "usage": "Используется для описания реальных или вероятных ситуаций в будущем.",
+            "formula": "If + Present Simple, will + Verb",
+            "examples": [
+              "If I finish my work early, I will call you.",
+              "If it doesn’t rain, we will go for a walk."
+            ]
+          },
+          "second_conditional": {
+            "name": "Второй тип условных предложений",
+            "usage": "Используется для описания нереальных или маловероятных ситуаций в настоящем или будущем.",
+            "formula": "If + Past Simple, would + Verb",
+            "examples": [
+              "If I were rich, I would travel the world.",
+              "If she studied harder, she would pass the exam."
+            ]
+          },
+          "third_conditional": {
+            "name": "Третий тип условных предложений",
+            "usage": "Используется для описания ситуаций, которые могли бы произойти в прошлом, но не произошли.",
+            "formula": "If + Past Perfect, would have + Verb(3rd form)",
+            "examples": [
+              "If I had known about the meeting, I would have attended.",
+              "If they had left earlier, they would have caught the train."
+            ]
+          }
+        }
+      },
+      "reported_speech": {
+        "name": "Косвенная речь",
+        "description": "Косвенная речь используется для передачи слов или мыслей другого человека.",
+        "rules": {
+          "statement": {
+            "name": "Утверждения",
+            "rule": "При преобразовании прямой речи в косвенную используется сдвиг времени на одно назад, если глагол в главном предложении стоит в прошедшем времени.",
+            "examples": [
+              "Direct: She said, 'I am happy.'",
+              "Reported: She said that she was happy.",
+              "Direct: He said, 'I have finished my homework.'",
+              "Reported: He said that he had finished his homework."
+            ]
+          },
+          "questions": {
+            "name": "Вопросы",
+            "rule": "При преобразовании вопросов в косвенную речь используются слова-посредники (например, if, whether) и обратный порядок слов заменяется прямым.",
+            "examples": [
+              "Direct: She asked, 'Are you coming?'",
+              "Reported: She asked if I was coming.",
+              "Direct: He asked, 'Where do you live?'",
+              "Reported: He asked where I lived."
+            ]
+          },
+          "commands_requests": {
+            "name": "Приказы и просьбы",
+            "rule": "При преобразовании приказов и просьб используется инфинитив, часто вводится глагол-посредник (например, told, asked).",
+            "examples": [
+              "Direct: He said, 'Close the door.'",
+              "Reported: He told me to close the door.",
+              "Direct: She said, 'Please help me.'",
+              "Reported: She asked me to help her."
+            ]
+          }
+        }
+      }
+    }
+  }
+  

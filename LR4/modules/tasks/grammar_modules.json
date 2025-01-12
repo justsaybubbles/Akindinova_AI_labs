@@ -1,0 +1,99 @@
+{
+    "modal_verbs": {
+      "description": "Модальные глаголы используются для выражения возможностей, вероятностей, обязанностей, разрешений и других значений.",
+      "verbs": {
+        "can": {
+          "name": "Can",
+          "usage": "Используется для выражения способностей, возможностей или разрешений.",
+          "examples": [
+            "I can swim.",
+            "Can I borrow your pen?",
+            "She can speak three languages."
+          ]
+        },
+        "could": {
+          "name": "Could",
+          "usage": "Используется для выражения возможностей в прошлом, вежливых просьб или гипотетических ситуаций.",
+          "examples": [
+            "I could play the piano when I was five.",
+            "Could you help me, please?",
+            "If I were you, I could try harder."
+          ]
+        },
+        "may": {
+          "name": "May",
+          "usage": "Используется для выражения вероятности или разрешения.",
+          "examples": [
+            "It may rain tomorrow.",
+            "You may leave early today."
+          ]
+        },
+        "might": {
+          "name": "Might",
+          "usage": "Используется для выражения низкой вероятности или предположений.",
+          "examples": [
+            "She might come to the party.",
+            "This might be a good idea."
+          ]
+        },
+        "must": {
+          "name": "Must",
+          "usage": "Используется для выражения обязательств или сильной вероятности.",
+          "examples": [
+            "You must wear a helmet while riding a bike.",
+            "He must be at home; the lights are on."
+          ]
+        },
+        "shall": {
+          "name": "Shall",
+          "usage": "Используется для предложений или указаний, в основном в британском английском.",
+          "examples": [
+            "Shall we go out for dinner?",
+            "You shall obey the rules."
+          ]
+        },
+        "should": {
+          "name": "Should",
+          "usage": "Используется для советов или рекомендаций.",
+          "examples": [
+            "You should see a doctor.",
+            "He should finish his homework before going out."
+          ]
+        },
+        "will": {
+          "name": "Will",
+          "usage": "Используется для выражения будущих действий или решений, принятых в момент речи.",
+          "examples": [
+            "I will call you tomorrow.",
+            "We will meet at 6 PM."
+          ]
+        },
+        "would": {
+          "name": "Would",
+          "usage": "Используется для выражения вежливых просьб, условных предложений или привычек в прошлом.",
+          "examples": [
+            "Would you like a cup of tea?",
+            "If I were rich, I would buy a big house.",
+            "When we were kids, we would play outside for hours."
+          ]
+        },
+        "ought_to": {
+          "name": "Ought to",
+          "usage": "Используется для выражения морального долга или ожиданий.",
+          "examples": [
+            "You ought to apologize.",
+            "He ought to be here by now."
+          ]
+        },
+        "need": {
+          "name": "Need",
+          "usage": "Используется для выражения необходимости, часто в отрицательных предложениях или вопросах.",
+          "examples": [
+            "You need not worry about it.",
+            "Need I explain further?"
+          ]
+        }
+      }
+    }
+  }
+  

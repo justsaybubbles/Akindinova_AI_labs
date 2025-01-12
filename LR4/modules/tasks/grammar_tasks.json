@@ -1,0 +1,116 @@
+{
+    "tenses": {
+      "past": {
+        "name": "Прошедшее время",
+        "description": "Прошедшее время в английском языке используется для описания действий, которые произошли в прошлом.",
+        "examples": [
+          "I went to the store yesterday.",
+          "She played the piano when she was a child."
+        ],
+        "types": {
+          "simple_past": {
+            "name": "Прошедшее простое время (Past Simple)",
+            "usage": "Используется для описания завершённых действий в прошлом.",
+            "formula": "Subject + Verb(+ed/2nd form) + Object",
+            "examples": [
+              "I visited my grandmother last weekend.",
+              "They watched a movie yesterday."
+            ]
+          },
+          "past_continuous": {
+            "name": "Прошедшее длительное время (Past Continuous)",
+            "usage": "Используется для описания действий, которые происходили в определённый момент в прошлом.",
+            "formula": "Subject + was/were + Verb(+ing) + Object",
+            "examples": [
+              "I was reading a book at 7 PM yesterday.",
+              "They were playing football when it started to rain."
+            ]
+          },
+          "past_perfect": {
+            "name": "Прошедшее совершенное время (Past Perfect)",
+            "usage": "Используется для описания действий, которые завершились до определённого момента в прошлом.",
+            "formula": "Subject + had + Verb(3rd form) + Object",
+            "examples": [
+              "She had already left when we arrived.",
+              "I had finished my homework before dinner."
+            ]
+          }
+        }
+      },
+      "present": {
+        "name": "Настоящее время",
+        "description": "Настоящее время в английском языке используется для описания действий, которые происходят сейчас или регулярно.",
+        "examples": [
+          "I go to school every day.",
+          "She is reading a book now."
+        ],
+        "types": {
+          "simple_present": {
+            "name": "Настоящее простое время (Present Simple)",
+            "usage": "Используется для описания регулярных действий или фактов.",
+            "formula": "Subject + Verb(s/es) + Object",
+            "examples": [
+              "He works at a bank.",
+              "They play tennis on Sundays."
+            ]
+          },
+          "present_continuous": {
+            "name": "Настоящее длительное время (Present Continuous)",
+            "usage": "Используется для описания действий, которые происходят прямо сейчас.",
+            "formula": "Subject + am/is/are + Verb(+ing) + Object",
+            "examples": [
+              "I am studying English.",
+              "We are having dinner at the moment."
+            ]
+          },
+          "present_perfect": {
+            "name": "Настоящее совершенное время (Present Perfect)",
+            "usage": "Используется для описания действий, которые произошли в прошлом, но имеют связь с настоящим.",
+            "formula": "Subject + have/has + Verb(3rd form) + Object",
+            "examples": [
+              "She has visited Paris several times.",
+              "We have already finished our project."
+            ]
+          }
+        }
+      },
+      "future": {
+        "name": "Будущее время",
+        "description": "Будущее время в английском языке используется для описания действий, которые произойдут в будущем.",
+        "examples": [
+          "I will travel to London next year.",
+          "She is going to start a new job soon."
+        ],
+        "types": {
+          "simple_future": {
+            "name": "Будущее простое время (Future Simple)",
+            "usage": "Используется для описания действий, которые произойдут в будущем.",
+            "formula": "Subject + will + Verb + Object",
+            "examples": [
+              "I will call you tomorrow.",
+              "They will visit us next weekend."
+            ]
+          },
+          "future_continuous": {
+            "name": "Будущее длительное время (Future Continuous)",
+            "usage": "Используется для описания действий, которые будут происходить в определённый момент в будущем.",
+            "formula": "Subject + will be + Verb(+ing) + Object",
+            "examples": [
+              "I will be working at 6 PM tomorrow.",
+              "They will be traveling through Europe this time next year."
+            ]
+          },
+          "future_perfect": {
+            "name": "Будущее совершенное время (Future Perfect)",
+            "usage": "Используется для описания действий, которые завершатся к определённому моменту в будущем.",
+            "formula": "Subject + will have + Verb(3rd form) + Object",
+            "examples": [
+              "She will have completed the report by Friday.",
+              "We will have moved to a new house by next month."
+            ]
+          }
+        }
+      }
+    }
+  }
+  

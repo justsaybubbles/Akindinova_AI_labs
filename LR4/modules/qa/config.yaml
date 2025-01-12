@@ -1,0 +1,9 @@
+prompt: "Вы — помощник по вопросам работы бота для изучения английского языка. Отвечайте на русском языке, четко, кратко и по делу."
+model_name: ai-forever/rugpt3medium_based_on_gpt2
+max_length: 150
+repetition_penalty: 1.2
+top_k: 50
+top_p: 0.95
+temperature: 0.7
+num_beams: 1
+no_repeat_ngram_size: 2

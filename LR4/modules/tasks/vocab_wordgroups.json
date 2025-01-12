@@ -1,0 +1,266 @@
+{
+    "vocabulary_levels": {
+      "A1": {
+        "synonyms": {
+          "words": [
+            { "word": "big", "synonyms": ["large", "huge"] },
+            { "word": "small", "synonyms": ["tiny", "little"] },
+            { "word": "happy", "synonyms": ["joyful", "cheerful"] },
+            { "word": "sad", "synonyms": ["unhappy", "miserable"] },
+            { "word": "fast", "synonyms": ["quick", "speedy"] },
+            { "word": "slow", "synonyms": ["sluggish", "leisurely"] },
+            { "word": "good", "synonyms": ["great", "nice"] },
+            { "word": "bad", "synonyms": ["awful", "terrible"] },
+            { "word": "hot", "synonyms": ["warm", "boiling"] },
+            { "word": "cold", "synonyms": ["chilly", "freezing"] }
+          ]
+        },
+        "antonyms": {
+          "words": [
+            { "word": "big", "antonyms": ["small"] },
+            { "word": "happy", "antonyms": ["sad"] },
+            { "word": "fast", "antonyms": ["slow"] },
+            { "word": "good", "antonyms": ["bad"] },
+            { "word": "hot", "antonyms": ["cold"] },
+            { "word": "early", "antonyms": ["late"] },
+            { "word": "clean", "antonyms": ["dirty"] },
+            { "word": "easy", "antonyms": ["difficult"] },
+            { "word": "young", "antonyms": ["old"] },
+            { "word": "strong", "antonyms": ["weak"] }
+          ]
+        },
+        "idioms": {
+          "phrases": [
+            { "idiom": "a piece of cake", "meaning": "something very easy" },
+            { "idiom": "break the ice", "meaning": "start a conversation" },
+            { "idiom": "under the weather", "meaning": "feeling sick" },
+            { "idiom": "in hot water", "meaning": "in trouble" },
+            { "idiom": "cost an arm and a leg", "meaning": "very expensive" },
+            { "idiom": "hit the books", "meaning": "study hard" },
+            { "idiom": "spill the beans", "meaning": "reveal a secret" },
+            { "idiom": "on cloud nine", "meaning": "very happy" },
+            { "idiom": "let the cat out of the bag", "meaning": "reveal a secret" },
+            { "idiom": "raining cats and dogs", "meaning": "raining heavily" }
+          ]
+        }
+      },
+      "A2": {
+        "synonyms": {
+          "words": [
+            { "word": "begin", "synonyms": ["start", "commence"] },
+            { "word": "end", "synonyms": ["finish", "conclude"] },
+            { "word": "hard", "synonyms": ["difficult", "challenging"] },
+            { "word": "easy", "synonyms": ["simple", "effortless"] },
+            { "word": "beautiful", "synonyms": ["pretty", "attractive"] },
+            { "word": "ugly", "synonyms": ["unattractive", "hideous"] },
+            { "word": "love", "synonyms": ["adore", "like"] },
+            { "word": "hate", "synonyms": ["dislike", "detest"] },
+            { "word": "fast", "synonyms": ["rapid", "quick"] },
+            { "word": "slow", "synonyms": ["sluggish", "leisurely"] }
+          ]
+        },
+        "antonyms": {
+          "words": [
+            { "word": "begin", "antonyms": ["end"] },
+            { "word": "hard", "antonyms": ["easy"] },
+            { "word": "beautiful", "antonyms": ["ugly"] },
+            { "word": "love", "antonyms": ["hate"] },
+            { "word": "fast", "antonyms": ["slow"] },
+            { "word": "clean", "antonyms": ["dirty"] },
+            { "word": "open", "antonyms": ["close"] },
+            { "word": "cheap", "antonyms": ["expensive"] },
+            { "word": "safe", "antonyms": ["dangerous"] },
+            { "word": "light", "antonyms": ["dark"] }
+          ]
+        },
+        "idioms": {
+          "phrases": [
+            { "idiom": "burn the midnight oil", "meaning": "work late into the night" },
+            { "idiom": "once in a blue moon", "meaning": "very rarely" },
+            { "idiom": "beat around the bush", "meaning": "avoid the main topic" },
+            { "idiom": "bite the bullet", "meaning": "face a difficult situation" },
+            { "idiom": "cut corners", "meaning": "do something poorly to save time or money" },
+            { "idiom": "get out of hand", "meaning": "become uncontrollable" },
+            { "idiom": "hit the nail on the head", "meaning": "be exactly right" },
+            { "idiom": "pull someone's leg", "meaning": "joke with someone" },
+            { "idiom": "the ball is in your court", "meaning": "it's your decision to make" },
+            { "idiom": "speak of the devil", "meaning": "when someone appears while being talked about" }
+          ]
+        }
+      },
+      "B1": {
+        "synonyms": {
+          "words": [
+            { "word": "achieve", "synonyms": ["accomplish", "attain"] },
+            { "word": "build", "synonyms": ["construct", "erect"] },
+            { "word": "choose", "synonyms": ["select", "pick"] },
+            { "word": "decide", "synonyms": ["determine", "resolve"] },
+            { "word": "explain", "synonyms": ["clarify", "describe"] },
+            { "word": "improve", "synonyms": ["enhance", "better"] },
+            { "word": "keep", "synonyms": ["retain", "maintain"] },
+            { "word": "leave", "synonyms": ["depart", "exit"] },
+            { "word": "receive", "synonyms": ["accept", "get"] },
+            { "word": "remember", "synonyms": ["recall", "recollect"] }
+          ]
+        },
+        "antonyms": {
+          "words": [
+            { "word": "achieve", "antonyms": ["fail"] },
+            { "word": "build", "antonyms": ["destroy"] },
+            { "word": "choose", "antonyms": ["reject"] },
+            { "word": "decide", "antonyms": ["hesitate"] },
+            { "word": "improve", "antonyms": ["worsen"] },
+            { "word": "keep", "antonyms": ["lose"] },
+            { "word": "leave", "antonyms": ["stay"] },
+            { "word": "receive", "antonyms": ["send"] },
+            { "word": "remember", "antonyms": ["forget"] },
+            { "word": "start", "antonyms": ["stop"] }
+          ]
+        },
+        "idioms": {
+          "phrases": [
+            { "idiom": "break the bank", "meaning": "spend all your money" },
+            { "idiom": "call it a day", "meaning": "stop working on something" },
+            { "idiom": "cut to the chase", "meaning": "get to the point" },
+            { "idiom": "let someone off the hook", "meaning": "not hold someone responsible" },
+            { "idiom": "miss the boat", "meaning": "miss an opportunity" },
+            { "idiom": "on the same page", "meaning": "agree about something" },
+            { "idiom": "rock the boat", "meaning": "cause problems" },
+            { "idiom": "sit on the fence", "meaning": "be undecided" },
+            { "idiom": "take it easy", "meaning": "relax" },
+            { "idiom": "up in the air", "meaning": "uncertain" }
+          ]
+        }
+      },
+      "B2": {
+      "synonyms": {
+        "words": [
+          { "word": "analyze", "synonyms": ["examine", "inspect"] },
+          { "word": "assist", "synonyms": ["help", "support"] },
+          { "word": "clarify", "synonyms": ["explain", "elucidate"] },
+          { "word": "confirm", "synonyms": ["verify", "validate"] },
+          { "word": "demonstrate", "synonyms": ["show", "exhibit"] },
+          { "word": "develop", "synonyms": ["progress", "advance"] },
+          { "word": "evaluate", "synonyms": ["assess", "appraise"] },
+          { "word": "illustrate", "synonyms": ["depict", "describe"] },
+          { "word": "manage", "synonyms": ["handle", "control"] },
+          { "word": "organize", "synonyms": ["arrange", "structure"] }
+        ]
+      },
+      "antonyms": {
+        "words": [
+          { "word": "analyze", "antonyms": ["ignore"] },
+          { "word": "assist", "antonyms": ["hinder"] },
+          { "word": "clarify", "antonyms": ["confuse"] },
+          { "word": "confirm", "antonyms": ["deny"] },
+          { "word": "develop", "antonyms": ["halt"] },
+          { "word": "evaluate", "antonyms": ["neglect"] },
+          { "word": "manage", "antonyms": ["mismanage"] },
+          { "word": "organize", "antonyms": ["disorganize"] }
+        ]
+      },
+      "idioms": {
+        "phrases": [
+          { "idiom": "a blessing in disguise", "meaning": "a good thing that seemed bad at first" },
+          { "idiom": "a dime a dozen", "meaning": "something common" },
+          { "idiom": "bite off more than you can chew", "meaning": "take on a task that is too big" },
+          { "idiom": "give someone the benefit of the doubt", "meaning": "trust what someone says" },
+          { "idiom": "hit the sack", "meaning": "go to sleep" },
+          { "idiom": "make a long story short", "meaning": "tell something briefly" },
+          { "idiom": "pull yourself together", "meaning": "calm down" },
+          { "idiom": "so far so good", "meaning": "things are going well so far" },
+          { "idiom": "speak of the devil", "meaning": "the person we were just talking about showed up" },
+          { "idiom": "the last straw", "meaning": "the last problem in a series of problems" }
+        ]
+      }
+    },
+    "C1": {
+      "synonyms": {
+        "words": [
+          { "word": "advocate", "synonyms": ["support", "recommend"] },
+          { "word": "challenge", "synonyms": ["question", "dispute"] },
+          { "word": "consolidate", "synonyms": ["strengthen", "unify"] },
+          { "word": "diverge", "synonyms": ["differ", "separate"] },
+          { "word": "elaborate", "synonyms": ["expand", "detail"] },
+          { "word": "facilitate", "synonyms": ["ease", "promote"] },
+          { "word": "integrate", "synonyms": ["combine", "merge"] },
+          { "word": "mitigate", "synonyms": ["alleviate", "reduce"] },
+          { "word": "reinforce", "synonyms": ["strengthen", "bolster"] },
+          { "word": "substantiate", "synonyms": ["prove", "validate"] }
+        ]
+      },
+      "antonyms": {
+        "words": [
+          { "word": "advocate", "antonyms": ["oppose"] },
+          { "word": "challenge", "antonyms": ["accept"] },
+          { "word": "consolidate", "antonyms": ["weaken"] },
+          { "word": "diverge", "antonyms": ["converge"] },
+          { "word": "elaborate", "antonyms": ["simplify"] },
+          { "word": "facilitate", "antonyms": ["hinder"] },
+          { "word": "integrate", "antonyms": ["separate"] },
+          { "word": "mitigate", "antonyms": ["exacerbate"] },
+          { "word": "reinforce", "antonyms": ["undermine"] },
+          { "word": "substantiate", "antonyms": ["disprove"] }
+        ]
+      },
+      "idioms": {
+        "phrases": [
+          { "idiom": "add insult to injury", "meaning": "make a bad situation worse" },
+          { "idiom": "burn the midnight oil", "meaning": "work late into the night" },
+          { "idiom": "the ball is in your court", "meaning": "it's your responsibility to act" },
+          { "idiom": "throw caution to the wind", "meaning": "take a risk" },
+          { "idiom": "be a tough act to follow", "meaning": "be so good that others find it difficult to match" },
+          { "idiom": "hit the ground running", "meaning": "start something and proceed energetically" },
+          { "idiom": "jump on the bandwagon", "meaning": "follow a trend" },
+          { "idiom": "know the ropes", "meaning": "understand the details of a situation" },
+          { "idiom": "on thin ice", "meaning": "in a risky situation" },
+          { "idiom": "read between the lines", "meaning": "find a hidden meaning" }
+        ]
+      }
+    },
+    "C2": {
+      "synonyms": {
+        "words": [
+          { "word": "aberration", "synonyms": ["anomaly", "deviation"] },
+          { "word": "conundrum", "synonyms": ["puzzle", "dilemma"] },
+          { "word": "ephemeral", "synonyms": ["transient", "fleeting"] },
+          { "word": "inundate", "synonyms": ["overwhelm", "flood"] },
+          { "word": "lucid", "synonyms": ["clear", "coherent"] },
+          { "word": "quintessential", "synonyms": ["typical", "exemplary"] },
+          { "word": "serendipity", "synonyms": ["fluke", "chance"] },
+          { "word": "superfluous", "synonyms": ["excessive", "unnecessary"] },
+          { "word": "ubiquitous", "synonyms": ["omnipresent", "pervasive"] },
+          { "word": "zealous", "synonyms": ["enthusiastic", "passionate"] }
+        ]
+      },
+      "antonyms": {
+        "words": [
+          { "word": "aberration", "antonyms": ["normality"] },
+          { "word": "conundrum", "antonyms": ["solution"] },
+          { "word": "ephemeral", "antonyms": ["permanent"] },
+          { "word": "inundate", "antonyms": ["drain"] },
+          { "word": "lucid", "antonyms": ["confusing"] },
+          { "word": "quintessential", "antonyms": ["atypical"] },
+          { "word": "serendipity", "antonyms": ["misfortune"] },
+          { "word": "superfluous", "antonyms": ["necessary"] },
+          { "word": "ubiquitous", "antonyms": ["rare"] },
+          { "word": "zealous", "antonyms": ["indifferent"] }
+        ]
+      },
+      "idioms": {
+        "phrases": [
+          { "idiom": "a penny for your thoughts", "meaning": "ask someone what they are thinking" },
+          { "idiom": "actions speak louder than words", "meaning": "what you do is more important than what you say" },
+          { "idiom": "barking up the wrong tree", "meaning": "looking in the wrong place" },
+          { "idiom": "hit the nail on the head", "meaning": "do something exactly right" },
+          { "idiom": "leave no stone unturned", "meaning": "try every possible solution" },
+          { "idiom": "play devil's advocate", "meaning": "argue against something for the sake of discussion" },
+          { "idiom": "the tip of the iceberg", "meaning": "a small part of a bigger problem" },
+          { "idiom": "throw in the towel", "meaning": "give up" },
+          { "idiom": "water under the bridge", "meaning": "something in the past that is no longer a concern" },
+          { "idiom": "wild goose chase", "meaning": "a pointless pursuit" }
+        ]
+      }
+    }
+  }
+}
